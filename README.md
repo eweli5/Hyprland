@@ -80,21 +80,6 @@ easy IPC, much more QoL stuff than other compositors and more...
 
 </div>
 
-# Special Thanks
-
-<br>
-
-**[wlroots]** - *For powering Hyprland in the past*
-
-**[tinywl]** - *For showing how 2 do stuff*
-
-**[Sway]** - *For showing how 2 do stuff the overkill way*
-
-**[Vivarium]** - *For showing how 2 do stuff the simple way*
-
-**[dwl]** - *For showing how 2 do stuff the hacky way*
-
-**[Wayfire]** - *For showing how 2 do some graphics stuff*
 
 
 <!----------------------------------------------------------------------------->
