@@ -8,8 +8,7 @@
 [![Badge License]][License] 
 ![Badge Language] 
 [![Badge Pull Requests]][Pull Requests] 
-[![Badge Issues]][Issues] 
-![Badge Hi Mom]<br>
+[![Badge Issues]][Issues] <br>
 
 <br>
 
@@ -117,18 +116,16 @@ easy IPC, much more QoL stuff than other compositors and more...
 
 <!----------------------------------{ Thanks }--------------------------------->
 
-[Vivarium]: https://github.com/inclement/vivarium
-[WlRoots]: https://gitlab.freedesktop.org/wlroots/wlroots
-[Wayfire]: https://github.com/WayfireWM/wayfire
-[TinyWl]: https://gitlab.freedesktop.org/wlroots/wlroots/-/blob/master/tinywl/tinywl.c
-[Sway]: https://github.com/swaywm/sway
-[DWL]: https://codeberg.org/dwl/dwl
 
 <!----------------------------------{ Images }--------------------------------->
 
-[Preview A]: https://i.ibb.co/XxFY75Mk/greerggergerhtrytghjnyhjn.png
-[Preview B]: https://i.ibb.co/C1yTb0r/falf.png
-[Preview C]: https://i.ibb.co/2Yc4q835/hyprland-preview-b.png
+[Preview A]: 
+[Preview B]: 
+[Preview C]: 
+
+
+
+
 
 
 <!----------------------------------{ Badges }--------------------------------->
