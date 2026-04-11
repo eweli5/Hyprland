@@ -1,0 +1,41 @@
+#####HYPRLAND####
+hyprland = ~/.config/hypr/hyprland.conf
+keybinds = ~/.config/hypr/configs/Keybinds.conf
+startup apps = ~/.config/hypr/configs/Startup_Apps.conf
+window rules = ~/.config/hypr/configs/WindowRules.conf
+system settings = ~/.config/hypr/configs/SystemSettings.conf
+hyprlock = ~/.config/hypr/hyprlock.conf
+hypridle = ~/.config/hypr/hypridle.conf
+
+###USER###
+user defaults = ~/.config/hypr/UserConfigs/01-UserDefaults.conf
+user keybinds = ~/.config/hypr/UserConfigs/UserKeybinds.conf
+user envariables = ~/.config/hypr/UserConfigs/ENVariables.conf
+user startup apps = ~/.config/hypr/UserConfigs/Startup_Apps.conf
+user window rules = ~/.config/hypr/UserConfigs/WindowRules.conf
+user system settings = ~/.config/hypr/configs/SystemSettings.conf
+user decorations = ~/.config/hypr/UserConfigs/UserDecorations.conf  ####MAIN##SETTINGS####
+user animations = ~/.config/hypr/UserConfigs/UserAnimations.conf
+laptop configs = ~/.config/hypr/UserConfigs/Laptops.conf
+
+
+####CAVA####
+config = ~/.config/cava/config
+
+####FASTFETCH####
+config = ~/.config/fastfetch/config.jsonc
+
+####WAYBAR####
+config = ~/.config/waybar/config
+style = ~/.config/waybar/style.css
+
+####GHOSTTY####
+config = ~/.config/ghostty/config
+
+####KITTY####
+config = ~/.config/kitty/kitty.conf
+theme = ~/.config/kitty/kitty-themes
+
+####BTOP####
+config = ~/.config/btop/btop.conf
+theme = ~/.config/btop/themes
