@@ -61,17 +61,6 @@ easy IPC, much more QoL stuff than other compositors and more...
 
 <div align = center>
 
-# Gallery
-
-<br>
-
-![Preview A]
-
-<br>
-
-</div>
-
-
 
 <!----------------------------------------------------------------------------->
 
