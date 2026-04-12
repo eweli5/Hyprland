@@ -95,7 +95,7 @@ def draw(scr, svcs, cfg, nxt):
     scr.erase()
     H, W = scr.getmaxyx()
     title = cfg.get("title", "statusboard")
-#    now   = datetime.now().strftime("%H:%M:%S")
+    now   = datetime.now().strftime("%H:%M:%S")
     secs  = max(0, int(nxt[0] - time.monotonic()))
 
     try:
@@ -175,7 +175,7 @@ def load_cfg(path):
     if path and os.path.exists(path):
         with open(path) as f:
             return yaml.safe_load(f)
- default = os.path.expanduser("~/.config/statusboard/config.yaml")
+    default = os.path.expanduser("~/.config/statusboard/config.yaml")
     if os.path.exists(default):
         with open(default) as f:
             return yaml.safe_load(f)
