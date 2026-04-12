@@ -69,15 +69,6 @@ easy IPC, much more QoL stuff than other compositors and more...
 
 <br>
 
-![Preview B]
-
-<br>
-
-![Preview C]
-
-<br>
-<br>
-
 </div>
 
 
