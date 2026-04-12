@@ -94,15 +94,9 @@ easy IPC, much more QoL stuff than other compositors and more...
 
 
 <!----------------------------------{ Images }--------------------------------->
-
-[Preview A]: src="https://github.com/user-attachments/assets/001595cf-9a8c-43a5-8e00-dfd638a80f26"
-
-
-
-
-
-
-
+<div align="center">
+<img src="https://github.com/user-attachments/assets/001595cf-9a8c-43a5-8e00-dfd638a80f26" width="100%" alt="Desktop rice — Arch Linux + Hyprland" />
+</div>
 <!----------------------------------{ Badges }--------------------------------->
 
 [Badge Workflow]: https://github.com/hyprwm/Hyprland/actions/workflows/ci.yaml/badge.svg
