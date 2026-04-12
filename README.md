@@ -105,8 +105,6 @@ easy IPC, much more QoL stuff than other compositors and more...
 <!----------------------------------{ Images }--------------------------------->
 
 [Preview A]: <img width="1920" height="1080" alt="Screenshot_11-Apr_18-51-12_17331" src="https://github.com/user-attachments/assets/cea17a98-329b-461e-91d9-9dd81f6c3257" />
-[Preview B]: 
-[Preview C]: 
 
 
 
