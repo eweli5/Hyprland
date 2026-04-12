@@ -31,6 +31,8 @@ easy IPC, much more QoL stuff than other compositors and more...
 <br>
 
 </div>
+<div align = center>
+
 
 # Features
 
@@ -58,6 +60,8 @@ easy IPC, much more QoL stuff than other compositors and more...
 
 <br>
 <br>
+</div>
+
 
 <div align = center>
 
