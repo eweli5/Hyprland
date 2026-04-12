@@ -81,6 +81,7 @@ easy IPC, much more QoL stuff than other compositors and more...
 
 <!----------------------------------{ Thanks }--------------------------------->
 
+# Gallery
 
 <!----------------------------------{ Images }--------------------------------->
 <div align="center">
