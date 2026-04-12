@@ -87,11 +87,11 @@ easy IPC, much more QoL stuff than other compositors and more...
 <div align="center">
 <img src="https://github.com/user-attachments/assets/001595cf-9a8c-43a5-8e00-dfd638a80f26" width="100%" alt="Desktop rice — Arch Linux + Hyprland" />
   <br>
-  ![download(2)](https://github.com/user-attachments/assets/80233b49-56c8-4899-ae37-a78b90ca7360)
+  <img src= "https://github.com/user-attachments/assets/80233b49-56c8-4899-ae37-a78b90ca7360"/>
   <br>
-  ![download (1)](https://github.com/user-attachments/assets/8b95eb81-1a27-410f-a0e5-337a0315a49b)
+  <img src="https://github.com/user-attachments/assets/8b95eb81-1a27-410f-a0e5-337a0315a49b"/>
   <br>
-  ![download](https://github.com/user-attachments/assets/ac916667-ccc3-485d-b09b-41a088c31e2c)
+  <img src="https://github.com/user-attachments/assets/ac916667-ccc3-485d-b09b-41a088c31e2c"/>
   <br>
 </div>
 <!----------------------------------{ Badges }--------------------------------->
