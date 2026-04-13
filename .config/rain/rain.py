@@ -1,3 +1,4 @@
+#!/usr/bin/env python3
 import curses, random, time
 
 def main(stdscr):
